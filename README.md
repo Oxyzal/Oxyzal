@@ -1,6 +1,6 @@
 ![](https://github.com/Oxyzal/Oxyzal/blob/main/img/nom.png)
 ***
-Humour | JavScript | Html/CSS | PHP
+Humour | JavaScript | Html/CSS | PHP
  --- | --- | --- | ---
 ![](https://github.com/Oxyzal/Oxyzal/blob/main/img/alde-uwu.gif) | ![](https://github.com/Oxyzal/Oxyzal/blob/main/img/giphy.gif) | ![](https://github.com/Oxyzal/Oxyzal/blob/main/img/simple-easy.gif) | ![](https://github.com/Oxyzal/Oxyzal/blob/main/img/665f8df1dbefa51069b8d2af79122ee0ac96bc20r1-400-225_00.gif)
 
