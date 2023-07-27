@@ -10,7 +10,7 @@ Humour | JavaScript | Html/CSS | PHP
 
 
 ## My personal social media
-![](https://github.com/Oxyzal/Oxyzal/blob/main/img/859d5a98460846c0ba104b1e68dd4bb3a70d2b14921067dadefea72f1a768d47_200.jpg) | ![](https://github.com/Oxyzal/Oxyzal/blob/main/img/Instagram_logo_2016.svg.png)
+
 --- | --- 
 https://www.linkedin.com/in/steven-madi-3a1a9920a/ | https://www.instagram.com/steven.oxyzal/
 
