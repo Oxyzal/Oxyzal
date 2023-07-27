@@ -12,5 +12,5 @@ Humour | JavaScript | Html/CSS | PHP
 ## My personal social media
 
 --- | --- 
-https://www.linkedin.com/in/steven-madi-3a1a9920a/ | https://www.instagram.com/steven.oxyzal/
+
 
